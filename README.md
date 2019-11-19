@@ -15,6 +15,7 @@ Note: The original monolith uses `gradle 1.2` to build and `java 7` to run
 
 ## Running locally
 
+
 If you have docker installed you can build and run the container locally via
 ```
 docker build -t marketsummary .
